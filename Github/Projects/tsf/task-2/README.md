@@ -4,9 +4,14 @@
 Steps-
 
 Step 1 : Import Libraries
+
 Step 2 : Importing dataset
+
 Srep 3 : Feature Extraction
+
 Step 4 : Finding Optimal no. of Clusters using Elbow Method
+
 Step 5 : Training KMeans Model
+
 Step 6 : Visualizing Model
 
